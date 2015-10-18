@@ -1,10 +1,10 @@
-# res_wifi V0.1
+# Res_wifi V0.1
 
 # En donde lo ejecuto ? 
 
 
 En tu android !! ;) 
-
+Dale permisos mira asi : chmod 777 res_wifi.sh
 
 # Que necesito :O
 
