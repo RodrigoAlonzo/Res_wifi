@@ -17,6 +17,9 @@ Necesitas ser root , tener busybox , y una terminal y tus dedos claro ! ;)
 
 Pues lo probe con un celular que me encontre xd un Sony ! 
 
+# TUTORIAL :
+
+http://racp-pl.blogspot.com/2015/10/reswifi-tutorial.html
 
 #Saludos 
 Atte : Rodrigo Canaza. 
