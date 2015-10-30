@@ -1,5 +1,7 @@
 # CREADO POR RodrigoC.
 # Suvido el 18/10/2015
+# Update 29/10/2015
+# Fix line [25] missing :P
 # Probado en android "SONY XPERYA"
 #
 clear
@@ -24,19 +26,21 @@ if [ $? != 0 ]; then
   echo "Saliendo !"
   exit 1
 fi 
-if [ "$1" == "r"]; then 
+if [ "$1" == "r" ]; then 
   echo "[+] Iniciando !"
 fi
-echo "[+] Creando carpeta !"
 if [ -d /data/res_wfi/ ]; then
-echo "[!] No existe Carpeta saliendo !"
+echo "[!] Carpeta existe !"
 else
+  echo "[+] Creando carpeta !"
   mkdir /data/res_wifi/
   echo "[!] Carpeta Creada !"
 fi
 if [ -f /data/misc/wifi/wpa_supplicant.conf ]; then
 echo "[!] Existe Fichero ! "
 cp /data/misc/wifi/wpa_supplicant.conf /data/res_wifi
+else 
+  echo "[!] No se encontro fichero ! "
 fi 
 grep ssid /data/res_wifi/wpa_supplicant.conf && grep psk /data/res_wifi/wpa_supplicant.conf && grep key_mgmt /data/res_wifi/wpa_supplicant.conf
 
