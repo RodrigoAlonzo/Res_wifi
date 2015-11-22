@@ -23,4 +23,4 @@ http://racp-pl.blogspot.com/2015/10/reswifi-tutorial.html
 
 #Saludos 
 Atte : Rodrigo Canaza. 
-FB : https://www.facebook.com/RodrigoAlonzoWar
+FB : https://www.facebook.com/
