@@ -7,7 +7,6 @@
 888  T88b  Y8b.          X88          Y88b 888 d88P 888 888    888 d8b      X88 888  888 
 888   T88b  "Y8888   88888P' 88888888  "Y8888888P"  888 888    888 Y8P  88888P' 888  888 
                                                                                       
-
 ![Screenshot] (http://2.bp.blogspot.com/-stdiPCCevWU/ViQLPqOnA3I/AAAAAAAAAJ0/glKHM7M2eeU/s400/12092552_923577764379737_835840065_n.jpg)
 
 # Res_wifi V0.1
