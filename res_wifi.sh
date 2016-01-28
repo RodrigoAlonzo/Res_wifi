@@ -43,7 +43,7 @@ else
   echo "[!] No se encontro fichero ! "
 fi 
 #grep ssid /data/res_wifi/wpa_supplicant.conf && grep psk /data/res_wifi/wpa_supplicant.conf && grep key_mgmt /data/res_wifi/wpa_supplicant.conf
-grep -e ssid -e psk -e key_mgmt /data/res_wifi/wpa_supllicant.conf
+grep -e ssid -e psk -e key_mgmt /data/misc/wifi/wpa_supplicant.conf
 echo "[!] Realizado ..."
 echo "[!] Un saludos a todos, Atte : RodrigoC."
 echo "[*] FB : www.fb.com/RodrigoAlonzoWar"
