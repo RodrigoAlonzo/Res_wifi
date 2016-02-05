@@ -1,7 +1,7 @@
 
 ![Screenshot] (https://3.bp.blogspot.com/-M1OC0vL2ZrI/VrUDorrIz_I/AAAAAAAAAME/CoiBUcWol5I/s1600/12647734_982111175193062_1598960115_n.jpg)
 
-# Res_wifi V0.1
+# Res_wifi V0.2
 
 # En donde lo ejecuto ? 
 
