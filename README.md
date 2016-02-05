@@ -22,7 +22,7 @@ Pues lo probe con un celular que me encontre xd un Sony !
 
 # TUTORIAL :
 
-http://racp-pl.blogspot.com/2015/10/reswifi-tutorial.html
+http://racp-pl.blogspot.pe/2016/02/reswifi-update.html
 
 #Saludos 
 Atte : Rodrigo Canaza. 
